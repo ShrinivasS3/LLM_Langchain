@@ -2,6 +2,5 @@ This repository contains the code and notebooks used to train and experiment wit
 
 Contents:
 
-
-
-notebooks:
+The notebooks in this repo are about how to use langchain and llms.
+And also about different tricks used with RAG.
